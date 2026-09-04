@@ -1,7 +1,5 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
-
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
 
@@ -31,12 +29,22 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+<img width="560" height="550" alt="image" src="https://github.com/user-attachments/assets/c4742a20-c59f-4699-9eb0-242d53afd754" />
+
 
 ### Output:
 
+# FUSION 360:
 
-### Name:
-### Register Number:
+<img width="591" height="330" alt="image" src="https://github.com/user-attachments/assets/c48a9db4-f1f4-4012-845e-5073f5f4b26e" />
+
+# RENDERED :
+
+<img width="582" height="213" alt="image" src="https://github.com/user-attachments/assets/0d48920f-9ccf-4f97-ad21-aef6faef310e" />
+
+
+### Name:JANANI SARASWATHI S
+### Register Number:212225230110
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
