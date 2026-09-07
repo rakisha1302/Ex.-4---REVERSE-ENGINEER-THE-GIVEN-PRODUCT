@@ -43,8 +43,8 @@
 <img width="582" height="213" alt="image" src="https://github.com/user-attachments/assets/0d48920f-9ccf-4f97-ad21-aef6faef310e" />
 
 
-### Name:JANANI SARASWATHI S
-### Register Number:212225230110
+### Name:Rakisha R
+### Register Number:212225230223
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
